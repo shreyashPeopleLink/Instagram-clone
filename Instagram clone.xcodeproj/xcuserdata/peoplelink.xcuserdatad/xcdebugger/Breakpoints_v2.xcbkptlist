@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B34E44CE-0930-438A-B9F5-CFDCEFD877C4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C0DEDEBD-E881-49D5-BCA4-AC53AA6F5418"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Instagram clone/InstaStoryTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "InstaStoryTableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "C0DEDEBD-E881-49D5-BCA4-AC53AA6F5418 - a8cc6433cd21cbf1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Instagram_clone.InstaStoryTableViewCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; Instagram_clone.InstaStoryTableViewCell"
+                  moduleName = "Instagram clone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/peoplelink/Desktop/Instagram%20clone/Instagram%20clone/InstaStoryTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "117">
+               </Location>
+               <Location
+                  uuid = "C0DEDEBD-E881-49D5-BCA4-AC53AA6F5418 - ee1b18c45d32e751"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Instagram_clone.InstaStoryTableViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Instagram_clone.InstaStoryTableViewCell&gt;"
+                  moduleName = "Instagram clone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/peoplelink/Desktop/Instagram%20clone/Instagram%20clone/InstaStoryTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "74">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
